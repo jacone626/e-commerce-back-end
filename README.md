@@ -29,7 +29,8 @@ Finally, the user has the option to create a new tag, product or id. The below i
 
 Walkthrough video:
 
-[E-commerce Back-end]()
+[ecommerce_exercise_ Apr 25, 2023.webm](https://user-images.githubusercontent.com/121627491/234357610-c130de5a-9d18-4d72-ba53-22f7e9070980.webm)
+
 
 ## Credits
 N/A
